@@ -6,7 +6,7 @@
 -- Platform    HackerRank
 -- Language    mysql
 -- Status      Accepted
--- Submitted   2026-08-18, 03:57 p.m.
+-- Submitted   2026-10-14, 02:37 p.m.
 -- ──────────────────────────────────────────────────
 
 SELECT * FROM CITY WHERE COUNTRYCODE='USA' AND POPULATION > 100000;
